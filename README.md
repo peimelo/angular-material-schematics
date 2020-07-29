@@ -1,4 +1,25 @@
-# AngularMaterialSchematics
+# Angular Material Schematics
+
+Angular com Material demonstrando as opções do Schematics:
+
+- Address form
+- Dashboard
+- Drag and drop
+- Navigation
+- Table
+- Tree
+
+## Como usar
+
+```
+git clone https://github.com/peimelo/angular-material-schematics.git
+cd angular-material-schematics
+ng serve
+```
+
+Abra o navegador no endereço `http://localhost:4200`
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
