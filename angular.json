@@ -119,6 +119,10 @@
               "devServerTarget": "angular-material-schematics:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
