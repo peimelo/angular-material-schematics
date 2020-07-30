@@ -1,10 +1,10 @@
 # Angular Material Schematics
 
-Angular com Material demonstrando as opções do Schematics:
+Angular com Material Design demonstrando as opções do [Schematics](https://material.angular.io/guide/schematics):
 
 - Address form
 - Dashboard
-- Drag and drop
+- Drag and Drop
 - Navigation
 - Table
 - Tree
@@ -18,6 +18,13 @@ ng serve
 ```
 
 Abra o navegador no endereço `http://localhost:4200`
+
+## Demonstração
+
+https://peimelo.github.io/angular-material-schematics
+https://stackblitz.com/edit/angular-material-schematics
+
+Veja no [YouTube](https://youtu.be/BLmphpppdrk) o passo a passo para a criação desse repositório.
 
 ---
 
