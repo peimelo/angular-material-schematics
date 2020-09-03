@@ -22,6 +22,7 @@ Abra o navegador no endereço `http://localhost:4200`
 ## Demonstração
 
 https://peimelo.github.io/angular-material-schematics
+
 https://stackblitz.com/edit/angular-material-schematics
 
 Veja no [YouTube](https://youtu.be/BLmphpppdrk) o passo a passo para a criação desse repositório.
